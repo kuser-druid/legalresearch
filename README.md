@@ -11,6 +11,8 @@ This repository is a document store for Claude's Legal Research project — case
   - `Blending-of-Property/` — throwing separate property into the joint family stock
   - `Coparcenary-and-Succession/` — daughters' coparcenary rights, HSA 2005 amendment, Karta-ship
   - `Partition-and-Taxation/` — partial partition, HUF as taxable unit
+- `Criminal-Procedure/`
+  - `Arrest-and-PMLA-Safeguards/` — Art. 21/22 safeguards on arrest, grounds-of-arrest requirements under PMLA/UAPA/CrPC-BNSS (Pankaj Bansal → Prabir Purkayastha → Vihaan Kumar → Mihir Rajesh Shah → Jaskaran Jeet Singh Deol line of cases, plus V. Senthil Balaji on habeas corpus against remand orders)
 - `Interpretation/` — treatises and instruments on statutory/treaty construction (Maxwell, Vienna Convention on the Law of Treaties)
 - `Reference/` — working materials (e.g. topic-wise case digest with citation abbreviations)
 
