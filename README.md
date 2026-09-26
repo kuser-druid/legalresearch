@@ -15,6 +15,18 @@ This repository is a document store for Claude's Legal Research project — case
   - `Arrest-and-PMLA-Safeguards/` — Art. 21/22 safeguards on arrest, grounds-of-arrest requirements under PMLA/UAPA/CrPC-BNSS (Pankaj Bansal → Prabir Purkayastha → Vihaan Kumar → Mihir Rajesh Shah → Jaskaran Jeet Singh Deol line of cases, plus V. Senthil Balaji on habeas corpus against remand orders)
 - `Interpretation/` — treatises and instruments on statutory/treaty construction (Maxwell, Vienna Convention on the Law of Treaties)
 - `Reference/` — working materials (e.g. topic-wise case digest with citation abbreviations)
+- `Arbitration-Law/` — Arbitration and Conciliation Act, 1996: the S.34/S.37 setting-aside line, arbitrability, "public policy of India", interest under S.31(7)
+- `Contract-Law/` — Contract Act, 1872: offer/acceptance, S.65 void agreements and restitution, *in pari delicto*, damages for breach
+- `Criminal-Law/`
+  - `Culpable-Homicide-Murder-and-Intoxication/` — Ss. 299/300 murder vs. culpable homicide distinction, the S.300 "Thirdly" test, intoxication as bearing on intent
+  - `Private-Defence-and-Provocation/` — right of private defence (Ss. 96–106), burden of proof, non-explanation of injuries on the accused, provocation reducing murder to manslaughter/culpable homicide
+  - `Sentencing/` — sentencing proportionality, death sentence and method of execution
+- `Civil-Procedure-Execution-and-Possession/` — CPC execution: Order 21 Rules 97–101 obstructor/claimant applications, territorial jurisdiction of the executing court, constructive res judicata
+- `Property-and-Tenancy-Law/` — rent control/licence-to-occupy premises, joint-family property alienation and benami purchases, ouster/adverse possession between co-sharers
+- `Competition-Law/` — Competition Act, 2002 (CCI/COMPAT/NCLAT orders) and EU competition law on abuse of dominance and cartels
+- `Constitutional-Law-and-PIL/` — Art. 12 "instrumentality of State", Art. 32 PIL standing, bonded/forced labour and minimum wages under Arts. 14/23, judicial review
+- `Probate-and-Testamentary-Succession/` — grant of probate/succession certificates, jurisdiction of the probate court
+- `Miscellaneous/` — topics not otherwise represented in the repository (last resort; reclassify if related material accumulates)
 
 ## Conventions
 
