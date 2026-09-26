@@ -208,6 +208,13 @@ Grant of probate/succession certificates and the jurisdiction of the probate cou
 | Clarence Pais v. Union of India | (2001) 4 SCC 325 | `Probate-and-Testamentary-Succession/Clarence Pais v UoI.pdf` | Succession Act, 1925, Ss. 213 and 57 — S.213(1)'s probate requirement is not discriminatory against Indian Christians (it applies to several classes of persons); historical, not religious, reasons justify differential geographical application; S.213(1) is a procedural rule of evidence/rule of the forum | Art. 14 classification, federal set-up |
 | Kamal Mahaling Patil v. Indubai Mahaling Patil | 2019 SCC OnLine Bom 954 : (2019) 5 Bom CR 583 | `Probate-and-Testamentary-Succession/Kamal Mahaling Patil v Indubai Mahaling Patil.pdf` | Scope of jurisdiction of the Probate Court under S.276, Indian Succession Act, examined in an appeal against refusal of probate and grant of a succession certificate to the opponent | |
 
+## Intellectual-Property
+Interim/procedural relief in aid of IP infringement claims.
+
+| Case | Citation | Folder location | Holds | Also relevant to |
+|---|---|---|---|---|
+| Anton Piller KG v. Manufacturing Processes Ltd. | [1976] Ch 55 : [1976] 2 WLR 162 : [1976] 1 All ER 779 (CA) | `Intellectual-Property/Anton Piller KG v Manufacturing Processes Ltd.pdf` | Origin of the "Anton Piller order": in exceptional circumstances — a very strong prima facie case, serious actual/potential damage to the plaintiff, and clear evidence the defendant possesses vital material it might destroy or dispose of to defeat justice — the court has inherent jurisdiction to make an ex parte order permitting the plaintiff's representatives to enter the defendant's premises to inspect and remove documents/articles before trial, to preserve evidence of copyright infringement and misuse of confidential information; distinguished from a search warrant (the defendant must be given permission to refuse entry, at the risk of adverse consequences); order made only after weighing the serious infringement on defendants' rights (per curiam: plaintiffs must act carefully and with full respect for defendants' rights in enforcing such orders) | Civil procedure (ex parte interim relief, discovery/inspection), Confidential information, Copyright infringement |
+
 ## Miscellaneous
 Filed here as a last resort — topics not otherwise represented in the repository; reclassify into a proper topic folder if enough related material accumulates.
 

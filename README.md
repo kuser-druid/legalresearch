@@ -26,6 +26,7 @@ This repository is a document store for Claude's Legal Research project — case
 - `Competition-Law/` — Competition Act, 2002 (CCI/COMPAT/NCLAT orders) and EU competition law on abuse of dominance and cartels
 - `Constitutional-Law-and-PIL/` — Art. 12 "instrumentality of State", Art. 32 PIL standing, bonded/forced labour and minimum wages under Arts. 14/23, judicial review
 - `Probate-and-Testamentary-Succession/` — grant of probate/succession certificates, jurisdiction of the probate court
+- `Intellectual-Property/` — interim/procedural relief in aid of IP infringement claims (Anton Piller orders)
 - `Miscellaneous/` — topics not otherwise represented in the repository (last resort; reclassify if related material accumulates)
 
 ## Conventions
